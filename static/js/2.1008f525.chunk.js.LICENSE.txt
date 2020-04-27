@@ -17,6 +17,18 @@ object-assign
  * Released under the MIT License
  */
 
+/*! ./darkmode */
+
+/*! no static exports found */
+
+/*!**********************!*\
+        !*** ./src/index.js ***!
+        \**********************/
+
+/*!*************************!*\
+        !*** ./src/darkmode.js ***!
+        \*************************/
+
 /**
  * A better abstraction over CSS.
  *
